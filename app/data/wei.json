@@ -1,0 +1,292 @@
+[  
+  {  
+    "Cname":"曹操",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":1,
+    "key":"CaoCao",
+    "img":"CaoCao",
+    "name":"Cao, Cao",
+    "skills":[  
+      {  
+        "desc":"\"After damage taken\", you may acquire the card(s) that inflicted damage on you.",
+        "title":"Treachery 奸雄"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"曹丕",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":14,
+    "key":"CaoPi",
+    "img":"CaoPi",
+    "name":"Cao, Pi",
+    "skills":[  
+      {  
+        "desc":"You can acquire all the cards of players that died.",
+        "title":"Scavenge 行殇"
+      },
+      {  
+        "desc":"Every time after you take damage, you can make another player draw X cards (X being the units of health you have lost thus far), then that player lose his next turn.",
+        "title":"Banish 放逐"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"曹仁",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":11,
+    "key":"CaoRen",
+    "img":"CaoRen",
+    "name":"CaoRen",
+    "skills":[  
+      {  
+        "desc":"At the end of your turn, you can draw three cards, then you skip your next turn.",
+        "title":"Entrenched 据守"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"典韦",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":12,
+    "key":"DianWei",
+    "img":"DianWei",
+    "name":"Dian, Wei",
+    "skills":[  
+      {  
+        "desc":"During your action phase, you can either lose 1 unit of health or discard a weapon card to inflict 1 unit of damage to another player within your attacking range. Limited to once per phase.",
+        "title":"Ferocious Assault 强袭"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"郭嘉",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":6,
+    "key":"GuoJia",
+    "img":"GuoJia",
+    "name":"GuoJia",
+    "skills":[  
+      {  
+        "desc":"Keep your judgment card after the effect is activated.",
+        "title":"Talented 天妒"
+      },
+      {  
+        "desc":"You may look at the top two cards from the deck after every 1 \"damage taken\", then you must give any amount of those cards to any Hero(es) including yourself.",
+        "title":"Legacy 遗计"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"乐进",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":16,
+    "key":"LeJin",
+    "img":"LeJin",
+    "name":"Le, Jin",
+    "skills":[  
+      {  
+        "desc":"At begining of the end phase of another player, you can discard a basic card. If you do so, that player needs to discard an equipment card, or else you inflict 1 unit of damage to that player.",
+        "title":"Dauntless 骁果"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"司马懿",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":2,
+    "key":"SiMaYi",
+    "img":"SiMaYi",
+    "name":"SiMa, Yi",
+    "skills":[  
+      {  
+        "desc":"\"After damage taken\", you may acquire a card belonging to your damage source.",
+        "title":"Feedback 反馈"
+      },
+      {  
+        "desc":"You may replace any Hero's judgment draw with a card from your hand before calculating the judgment result.",
+        "title":"Sorcery 鬼才"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"夏侯惇",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":3,
+    "key":"XiaHouDun",
+    "img":"XiaHouDun",
+    "name":"XiaHou, Dun",
+    "skills":[  
+      {  
+        "desc":"\"After damage taken\", you may reveal a judgment draw. If the result is not a ♥, then the damage source must discard two hand cards or take 1 point of damage from you.",
+        "title":"Unyielding 刚烈"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"夏侯渊",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":8,
+    "key":"XiaHouYuan",
+    "img":"XiaHouYuan",
+    "name":"XiaHou, Yuan",
+    "skills":[  
+      {  
+        "desc":"You can choose one or both of the following options: \n 1. Skip your judgement phase and drawing phase. \n 2. Skip your play phase and discard an equipment card. \n Every time you choose one of these options, it is viewed as you using an Strike on another player.",
+        "title":"Godspeed 神速"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"许褚",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":5,
+    "key":"XuChu",
+    "img":"XuChu",
+    "name":"Xu, Chu",
+    "skills":[  
+      {  
+        "desc":"During draw phase, you may draw one card instead of two. If you do so, all of your \"Strike\" and \"Duel\" inflict +1 damage for that phase (only when you are the damage source of a Duel).",
+        "title":"Armorless 裸衣"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"徐晃",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":10,
+    "key":"XuHuang",
+    "img":"XuHuang",
+    "name":"Xu, Huang",
+    "skills":[  
+      {  
+        "desc":"You can use a black-suited basic card or equipment card as RATIONS DEPLETED 兵粮寸断. You can use RATIONS DEPLETED on other players within the physical distance of 2.",
+        "title":"Blockade 断粮"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"荀彧",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":13,
+    "key":"XunYu",
+    "img":"XunYu",
+    "name":"Xun, Yu",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you can conduct a Points Duel with a player with more health than you. If you win, that player inflicts 1 unit of damage to another player within his/her attack range of your choice. If you lose, that player inflicts 1 unit of damage to you. Once per turn.",
+        "title":"Rouse the Tiger 驱虎"
+      },
+      {  
+        "desc":"After every 1 unit of damage taken, you can pick a player to replenish hand cards such that number of hand cards equals to his/her maximum health. (Maximum replenishment of 5 cards)",
+        "title":"Eternal Loyalty 节命"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"张颌",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":9,
+    "key":"ZhangHe",
+    "img":"ZhangHe",
+    "name":"Zhang, He",
+    "skills":[  
+      {  
+        "desc":"You can discard a hand card to skip one of your phases (except your beginning phase and your end phase). If you skip your drawing phase, you acquire a hand card from another player max 2 players. If you skip your play phase, you can relocate a card from any player's equipment area/pending area to a corresponding area of another player.",
+        "title":"Flexibility 巧变"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"张辽",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":4,
+    "key":"ZhangLiao",
+    "img":"ZhangLiao",
+    "name":"Zhang, Liao",
+    "skills":[  
+      {  
+        "desc":"During the draw phase, instead of drawing from the deck, you may draw up to two hand cards, each must be from a different Hero with card(s).",
+        "title":"Assault 突击"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"甄姬",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":7,
+    "key":"ZhenJi",
+    "img":"ZhenJi",
+    "name":"Zhen, Ji",
+    "skills":[  
+      {  
+        "desc":"During your Start phase, you may use this ability to reveal a judgment and acquire the card if the result is a black color suit. You may use this ability again until a red color suit is revealed. Discard that judgment card afterwards and end the phase.",
+        "title":"Siren 洛神"
+      },
+      {  
+        "desc":"All your black color suit hand cards may be treated as \"Dodge\".",
+        "title":"Gorgeous 倾国"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  }
+]

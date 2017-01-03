@@ -1,0 +1,304 @@
+[  
+  {  
+    "Cname":"大乔",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":6,
+    "key":"DaQiao",
+    "img":"DaQiao",
+    "name":"Da, Qiao",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you may use any of your ♦ cards as \"Contentment\".",
+        "title":"Beauty 国色"
+      },
+      {  
+        "desc":"You may discard one of your cards to transfer a \"Strike\" targeting you to another Hero within your weapon range, except for the attacker.",
+        "title":"Outcast 流离"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"丁奉",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":16,
+    "key":"DingFeng",
+    "img":"DingFeng",
+    "name":"Ding, Feng",
+    "skills":[  
+      {  
+        "desc":"Whenever you use an Strike, you can pick one additional player within your range of 1 (horse count) as the target of the Strike.",
+        "title":"Close Combat 短兵"
+      },
+      {  
+        "desc":"During your play phase, you can discard a card and select a player. The distance between you and that player is viewed as 1 till the end of your turn. Limited to once per phase.",
+        "title":"Swift and Deadly 奋迅"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"甘宁",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":2,
+    "key":"GanNing",
+    "img":"GanNing",
+    "name":"Gan, Ning",
+    "skills":[  
+      {  
+        "desc":"During play phase, you may treat any of your black color suit cards as \"Dismantle\".",
+        "title":"Ambush 奇袭"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"黄盖",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":4,
+    "key":"HuangGai",
+    "img":"HuangGai",
+    "name":"Huang, Gai",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you may choose to lose one unit of life to draw two cards from the deck.",
+        "title":"Desperation 苦肉"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"吕蒙",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":3,
+    "key":"LuMeng",
+    "img":"LuMeng",
+    "name":"Lu, Meng",
+    "skills":[  
+      {  
+        "desc":"If you did not use or play any \"Strike\" during your play phase, then you may skip your discard phase for that turn.",
+        "title":"Discipline 克己"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"鲁肃",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":14,
+    "key":"LuSu",
+    "img":"LuSu",
+    "name":"Lu, Su",
+    "skills":[  
+      {  
+        "desc":"When you draw cards during your drawing phase, you can draw two additional cards. If you have more than five on-hand cards as a result, you must give half of your on-hand cards (rounded down to nearest integer) to another player with the smallest number of on-hand cards.",
+        "title":"Altruism 好施"
+      },
+      {  
+        "desc":"During your play phase, you can choose 2 players (other than yourself) and discard as many cards as the difference between the number of on-hand cards between these 2 players. Then exchange their entire set of on-hand cards. Limited to one use per phase.",
+        "title":"Alliance 缔盟"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"陆逊",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":7,
+    "key":"LuXun",
+    "img":"LuXun",
+    "name":"Lu, Xun",
+    "skills":[  
+      {  
+        "desc":"Passive Ability: You cannot be the target of \"Snatch\" and/or \"Contentment\".",
+        "title":"Humility 谦逊"
+      },
+      {  
+        "desc":"During your play phase, you can use a red on-hand card as AMASS 以逸待勞.",
+        "title":"Scrutinize 度勢"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"孙坚",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":9,
+    "key":"SunJian",
+    "img":"SunJian",
+    "name":"Sun, Jian",
+    "skills":[  
+      {  
+        "desc":"At your beginning phase, if you are not at full health, you can choose between 1 of 2 options: \n 1. Pick another player to draw X cards, and then discard 1 card. \n 2. Pick another player to draw 1 card, and then discard X cards. (X being the units of health you have lost thus far).",
+        "title":"Heroic Spirit 英魂"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"孙权",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":1,
+    "key":"SunQuan",
+    "img":"SunQuan",
+    "name":"Sun, Quan",
+    "skills":[  
+      {  
+        "desc":"During play phase, you may discard any amount of cards and redraw an equal amount from the deck (may only be used once per phase).",
+        "title":"Balance 制衡"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"孙尚香",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":8,
+    "key":"SunShangXiang",
+    "img":"SunShangXiang",
+    "name":"Sun, ShangXiang",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you may discard two hand cards to target a male Hero and heal 1 unit of life for both of you (only if the male Hero is not at full life).",
+        "title":"Engagement 结姻"
+      },
+      {  
+        "desc":"Immediately draw two cards from the deck upon losing a card from the equipment field.",
+        "title":"Heroine 枭姬"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"太史慈",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":12,
+    "key":"TaiShiCi",
+    "img":"TaiShiCi",
+    "name":"Tai, ShiCi",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you can conduct a Points Duel with another player. If you win, you acquire all of the following until the end of your turn. \n 1. Your Strike has no range \n  2. You can use one additional Strike \n  3. You can target one additional player when you use Strike \n If you lose, you cannot use Strike till the end of the turn. Limited to once per phase.",
+        "title":"Justice of Heaven 天义"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"小乔",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":11,
+    "key":"XiaoQiao",
+    "img":"XiaoQiao",
+    "name":"Xiao, Qiao",
+    "skills":[  
+      {  
+        "desc":"Every when you take damage, you can discard a hand card with suit of hearts to transfer the damage to another player, then that player draws X cards (X being the units of health that player has lost thus far).",
+        "title":"Heavenly Scent 天香"
+      },
+      {  
+        "desc":"Force ability: Your cards with the suit of spades are treated as hearts.",
+        "title":"Rosy Cheeks 红颜"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"张昭",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":15,
+    "key":"ZhangZhao",
+    "img":"ZhangZhao",
+    "name":"Zhang, Zhao",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you can place a hand equipment card into another player's equipment area(you can not replace the old one), and then you draw a card.",
+        "title":"Blunt advice 直谏"
+      },
+      {  
+        "desc":"At the end of other players’ discard phase, you can return a card that was discarded from the discard pile to that player. If you do so, you can acquire all other cards from the discard pile.",
+        "title":"Stabilization 固政"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"周泰",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":13,
+    "key":"ZhouTai",
+    "img":"ZhouTai",
+    "name":"Zhou, Tai",
+    "skills":[  
+      {  
+        "desc":"Whenever your health is reduced by 1 unit while your current unit of health is 0, you can reveal a card(this is not judgement card) from the top of the deck and place it onto your character card. As long as none of these cards have the same number (Ace thru King) displayed, you do not die.During this phase: \n 1. You can not keep any hand card. \n 2. The cards on your character can not be Snatch or Dismantle.\n 3. Only you can eat a peach to remove one of those cards.\n If a card is revealed with the same point as another existing card, you enter the Brink of Death(other player can use peach to save you, then you can remove one of those cards on your character).",
+        "title":"Refuting Death 不屈"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"周瑜",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":5,
+    "key":"ZhouYu",
+    "img":"ZhouYu",
+    "name":"Zhou, Yu",
+    "skills":[  
+      {  
+        "desc":"During your draw phase, you may draw one extra card from the deck.",
+        "title":"Heroic 英姿"
+      },
+      {  
+        "desc":"During your play phase, you may select another Hero, and ask that Hero to pick a suit. That Hero takes a hand card from you and shows it to you. If the resulting suit is not the same as his/her pick, then you cause 1 damage to your target (The target keeps that card regardless of the result, once per phase).",
+        "title":"Counter Spy 反间"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  }
+]

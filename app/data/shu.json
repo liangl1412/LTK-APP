@@ -1,0 +1,312 @@
+[  
+  {  
+    "Cname":"甘夫人",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":16,
+    "key":"GanFuRen",
+    "img":"GanFuRen",
+    "name":"Ms.Gan",
+    "skills":[  
+      {  
+        "desc":"Whenever you regain 1 unit of health, you can let another player of your Kingdom to draw 1 card.",
+        "title":"Prudence 淑慎"
+      },
+      {  
+        "desc":"At the beginning of your turn, you can discard all your hand cards. By doing so, if the number of your discarded cards is not smaller than X, you regain 1 unit of health (X equals to your current health).",
+        "title":"Divine Wisdom 神智"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"关羽",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":2,
+    "key":"GuanYu",
+    "img":"GuanYu",
+    "name":"Guan, Yu",
+    "skills":[  
+      {  
+        "desc":"You may use or play your red color suit card(s) as \"Strike\".",
+        "title":"Master of Warfare 武圣"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"黄月英",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":7,
+    "key":"HuangYueYing",
+    "img":"HuangYueYing",
+    "name":"Huang, YueYing",
+    "skills":[  
+      {  
+        "desc":"Anytime you use a \"Scroll\" card you immediately draw a card from the deck before calculating the effect of the \"Scroll\" card.",
+        "title":"Intuition 集智"
+      },
+      {  
+        "desc":"Your \"Scroll\" cards have infinite range.",
+        "title":"Wizardry 奇才"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"黄忠",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":8,
+    "key":"HuangZhong",
+    "img":"HuangZhong",
+    "name":"Huang, Zhong",
+    "skills":[  
+      {  
+        "desc":"Whenever you play Strike to another player in your play phase, the target can not dodge under the following circumstances: \n 1. The number of hand cards of the target player is greater or equal to your current units of health.\n 2. The number of hand cards of the target player is smaller or equal to your attack range.",
+        "title":"Fearsome Archer 烈弓"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"刘备",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":1,
+    "key":"LiuBei",
+    "img":"LiuBei",
+    "name":"Liu, Bei",
+    "skills":[  
+      {  
+        "desc":"During play phase, you may give any amount of hand cards to another Hero. You regain 1 life if the total amount of cards given is more than or equal to three.",
+        "title":"Kindness 仁德"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"刘禅",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":13,
+    "key":"LiuChan",
+    "img":"LiuChan",
+    "name":"Liu, Chan",
+    "skills":[  
+      {  
+        "desc":"Force ability: When other player Strike you, he/she needs to discard a basic card, or else that Strike has no effect you.",
+        "title":"Relish 享乐"
+      },
+      {  
+        "desc":"You can skip your play phase, then discard a hand card at the end of your turn to give another player an extra turn.",
+        "title":"Devolution 放权"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"马超",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":6,
+    "key":"MaChao",
+    "img":"MaChao",
+    "name":"Ma, Chao",
+    "skills":[  
+      {  
+        "desc":"Passive Ability: When calculating your distance to other Heroes, subtract 1.",
+        "title":"Horsemanship 马术"
+      },
+      {  
+        "desc":"When you target a Hero with \"Strike\", you may reveal a judgment. If the result is a red color suit, then your \"Strike\" cannot be \"Dodged\".",
+        "title":"Cavalry 铁骑"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"孟获",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":14,
+    "key":"MengHuo",
+    "img":"MengHuo",
+    "name":"Meng, Huo",
+    "skills":[  
+      {  
+        "desc":"BARBARIANS has no effect on you. You are the source of damage caused by BARBARIANS.",
+        "title":"The Smoking Gun 祸首"
+      },
+      {  
+        "desc":"During your drawing phase, if you are not at full health, you can forfeit drawing cards from the deck; instead, you display X cards from the top of the deck (X being the units of health you have lost thus far). For every card with hearts suit displayed, you regain 1 unit of health, then you discard those heart cards and acquire the remaining cards.",
+        "title":"Arise Again 再起"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"庞统",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":10,
+    "key":"PangTong",
+    "img":"PangTong",
+    "name":"Pang, Tong",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you can use a hand card with the suit of clubs as IRON SHACKLES铁索连环, or to re-draw 1 card.",
+        "title":" Shackle 连环"
+      },
+      {  
+        "desc":"When you are at the Brink of Death, you can discard all of your cards (on-hand and equipped) and all cards in your pending area, then reset your character, draw three cards, and regain your health to 3 units.",
+        "title":"Resurrection 涅槃"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"魏延",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":9,
+    "key":"WeiYan",
+    "img":"WeiYan",
+    "name":"Wei, Yan",
+    "skills":[  
+      {  
+        "desc":"Force ability: After you inflict 1 unit of damage to a player within distance of 1(horse count), you regain 1 unit of health.",
+        "title":"Insanity Streak 狂骨"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"卧龙",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":11,
+    "key":"WoLong",
+    "img":"WoLong",
+    "name":"Wo, Long",
+    "skills":[  
+      {  
+        "desc":"If there is no armour card in your equipped item area, it is viewed as you have Eight Diagram Formation equipped.",
+        "title":"Eight Trigrams 八阵"
+      },
+      {  
+        "desc":"During your action phase, you can use a red-suited on-hand card as BLAZE",
+        "title":"Arson 火计"
+      },
+      {  
+        "desc":"You can use a black-suited on-hand card as Ward 无懈可击",
+        "title":"Scient 看破"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"张飞",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":3,
+    "key":"ZhangFei",
+    "img":"ZhangFei",
+    "name":"Zhang, Fei",
+    "skills":[  
+      {  
+        "desc":"During your play phase, you may use any amount of \"Strike\" cards.",
+        "title":"Battlecry 咆哮"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"赵云",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":5,
+    "key":"ZhaoYun",
+    "img":"ZhaoYun",
+    "name":"ZhaoYun",
+    "skills":[  
+      {  
+        "desc":"You may treat your \"Strike\" as a \"Dodge\" or your \"Dodge\" as a \"Strike\".",
+        "title":"Courage 龙胆"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"诸葛亮",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":4,
+    "key":"ZhuGeLiang",
+    "img":"ZhuGeLiang",
+    "name":"ZhuGe, Liang",
+    "skills":[  
+      {  
+        "desc":"During the Start phase of your turn, you may look at \"X\" amount of cards from the top of the deck (where X is the number of Heroes alive, up to a max of five). You may then put any amount of cards back to the top of the deck in any order, and the rest to the bottom of the deck.",
+        "title":"Astrology 观星"
+      },
+      {  
+        "desc":"Passive Ability: You cannot be the target of \"Strike\" or \"Duel\" when you have no hand cards.",
+        "title":"Empty Fortress 空城"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"祝融",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":15,
+    "key":"ZhuRong",
+    "img":"ZhuRong",
+    "name":"Zhu, Rong",
+    "skills":[  
+      {  
+        "desc":"BARBARIANS南蛮入侵 have no effect on you. When any BARBARIANS 南蛮入侵 used by other players is placed into the discard pile after all damage has been resolved, you acquire it.",
+        "title":"Giant Elephant 巨象"
+      },
+      {  
+        "desc":"Every time after you inflict damage to your target by using Strike, you can conduct a Points Duel with that target player. If you win, you acquire a card from that player.",
+        "title":"Fearsome Blade 烈刃"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  }
+]

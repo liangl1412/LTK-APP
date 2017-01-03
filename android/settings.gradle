@@ -1,0 +1,3 @@
+rootProject.name = 'LTK'
+
+include ':app'

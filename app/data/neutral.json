@@ -1,0 +1,316 @@
+[  
+  {  
+    "Cname":"蔡文姬",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":12,
+    "key":"CaiWenJi",
+    "img":"CaiWenJi",
+    "name":"Cai, WenJi",
+    "skills":[  
+      {  
+        "desc":"Whenever any player is damaged by an \"Strike\", Cai Wen Ji can discard any card. The victim then flips a judgment\n If it is a heart ♥, the victim regains one health.  \n If it is a diamond ♦, the victim draws two cards.   \n If it is a club ♣, the source of damage discards two cards.\n If it is a spade ♠, the source of damage skip next turn.",
+        "title":"Lament 悲歌"
+      },
+      {  
+        "desc":"When a player kills Cai Wen Ji, he lose one of his hero's abilities for the rest of the game.(You get to choose)",
+        "title":"Heartbroken 断肠"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"貂蝉",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":3,
+    "key":"DiaoChan",
+    "img":"DiaoChan",
+    "name":"Diao, Chan",
+    "skills":[  
+      {  
+        "desc":"\"During your play phase, you may discard one card and select two Male Heroes and have them \"Duel\" each other. You must pick which Hero to play \"Strike\" first (This \"Duel\" cannot be \"Warded\" and can only occur once per phase).\"",
+        "title":"Mischief 离间"
+      },
+      {  
+        "desc":"Immediately draw one card at the start of End phase.",
+        "title":"Eclipse 闭月"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"华佗",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":1,
+    "key":"HuaTuo",
+    "img":"HuaTuo",
+    "name":"Hua, Tuo",
+    "skills":[  
+      {  
+        "desc":"Outside of your turn, you may use any of your red color suit cards as \"Peach\".",
+        "title":"Triage 急救"
+      },
+      {  
+        "desc":"During your play phase, you may discard one hand card and heal any Hero 1 unit of life (only once per phase).",
+        "title":"First Aid 青囊"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"贾诩",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":7,
+    "key":"JiaXu",
+    "img":"JiaXu",
+    "name":"Jia, Xu",
+    "skills":[  
+      {  
+        "desc":"During Jia Xu's turn, only Jia Xu and players on the brink of death can use peach.",
+        "title":"Complete Kill 完杀"
+      },
+      {  
+        "desc":"Once per game, Jia Xu can force all other players to attack a player in their range.  If a player does not, they lose one health.",
+        "title":"Upheaval 乱武"
+      },
+      {  
+        "desc":"Jia Xu cannot be targeted by a black scoll card.",
+        "title":"Curtain 帷幕"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"纪灵",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":15,
+    "key":"JiLing",
+    "img":"JiLing",
+    "name":"Ji, Ling",
+    "skills":[  
+      {  
+        "desc":"At the beginning of your play phase, you can Points Duel with another player. If you win, it is treat as you using an \"Strike\" on that player or on another player from the victim's Kingdom (this Strike will not be considered in calculating the number of Strike cards used in your play phase). If you do not win, you play phase is ended.",
+        "title":"Double Edge 双刃"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"孔融",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":14,
+    "key":"KongRong",
+    "img":"KongRong",
+    "name":"Kong, Rong",
+    "skills":[  
+      {  
+        "desc":"Whenever you receive damage, if the source of damage has hidden character cards, the damage is reduced by -1.",
+        "title":"Fame 名士"
+      },
+      {  
+        "desc":"When your cards are discarded into the discard pile, you can give those cards to another player.",
+        "title":"Courtesy 礼让"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"吕布",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":2,
+    "key":"LuBu",
+    "img":"LuBu",
+    "name":"Lu, Bu",
+    "skills":[  
+      {  
+        "desc":"Passive Ability: When you use \"Strike\", your target must use two \"Dodge\" to dodge your \"Strike\", when you use \"Duel\" your target must play two \"Strike\" to counter one of your \"Strike\".",
+        "title":"Unrivaled 无双"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"马腾",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":13,
+    "key":"MaTeng",
+    "img":"MaTeng",
+    "name":"Ma, Teng",
+    "skills":[  
+      {  
+        "desc":"Passive Ability: When calculating your distance to other Heroes, subtract 1.",
+        "title":"Horsemanship 马术"
+      },
+      {  
+        "desc":"Once per game: During your play phase, you can let every players of the same Kingdom as you draw three cards each. If your Kingdom has the least (or amongst the least) number of players among all the Kingdoms in play, you regain 1 unit of health.",
+        "title":"Rally 雄异"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"潘凤",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":17,
+    "key":"PanFeng",
+    "img":"PanFeng",
+    "name":"Pan, Feng",
+    "skills":[  
+      {  
+        "desc":"When you damages a character with a Strike, you can select one of their equipped cards and place it or discard it.",
+        "title":"Mad Axe 狂斧"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"庞德",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":8,
+    "key":"PangDe",
+    "img":"PangDe",
+    "name":"Pang, De",
+    "skills":[  
+      {  
+        "desc":"Passive Ability: When calculating your distance to other Heroes, subtract 1.",
+        "title":"Horsemanship 马术"
+      },
+      {  
+        "desc":"Whenever you Strike and the target dodged, Pang De can choose a card from the target and discard it.",
+        "title":"Sudden Attack 猛进"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"颜良&文丑",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":5,
+    "key":"YanLiang",
+    "img":"YanLiang",
+    "name":"Yan, Liang & Wen, Chou",
+    "skills":[  
+      {  
+        "desc":"You can skip your draw phase and draw a judgment card. You can keep the judgment card and for this turn, all of the opposite colored hand cards can be used as duel.",
+        "title":"Dueling Heroes 双雄"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"袁绍",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":4,
+    "key":"YuanShao",
+    "img":"YuanShao",
+    "name":"Yuan, Shao",
+    "skills":[  
+      {  
+        "desc":"Yuan Shao can use two hand cards of the same suit as Arrow Barrage.",
+        "title":"Random Strike 乱击"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"张角",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":10,
+    "key":"ZhangJiao",
+    "img":"ZhangJiao",
+    "name":"Zhang, Jiao",
+    "skills":[  
+      {  
+        "desc":"Whenever you use or play a DODGE, you can select any player to make a judgement. If the result is spades ♠, you inflict 2 units of lightning damage to that player.",
+        "title":"Lightning Strike 雷击"
+      },
+      {  
+        "desc":"After a judgment is flipped, Zhang Jiao can discard any black card to replace the judgment card.",
+        "title":"Dark Magic 鬼道"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"田丰",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":16,
+    "key":"TianFeng",
+    "img":"TianFeng",
+    "name":"Tian, Feng",
+    "skills":[  
+      {  
+        "desc":"When you lose your last on-hand card, you can discard 1 card from another player.",
+        "title":"Deathly Counsel 死谏"
+      },
+      {  
+        "desc":"Force Ability: When another player goes into brink of death, if the source of damage that caused it is from the same Kingdom as you are, draw 1 card from the deck. When a player from the same Kingdom as you dies, you lose 1 unit of health.",
+        "title":"With the Tide 随势"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  },
+  {  
+    "Cname":"邹氏",
+    "Well":"Work with SiMaYi",
+    "against":"Work against SiMaYi",
+    "desc":"",
+    "id":18,
+    "key":"ZouShi",
+    "img":"ZouShi",
+    "name":"Zou, Shi",
+    "skills":[  
+      {  
+        "desc":"During the play phase, you can expose this character card. Within your turns, if this character card is exposed, other players cannot expose their character cards.",
+        "title":"Femme Fatale 祸水"
+      },
+      {  
+        "desc":"During the play phase, you can discard an equipment card and select another player that has both character cards already exposed. You then choose one of that player's character cards and \"hide\" it (flip it over such he can't use his ability).",
+        "title":"Impetus for Conflicts 倾城"
+      }
+    ],
+    "story":"Ability's relation to Story",
+    "tactics":"tips"
+  }
+]
